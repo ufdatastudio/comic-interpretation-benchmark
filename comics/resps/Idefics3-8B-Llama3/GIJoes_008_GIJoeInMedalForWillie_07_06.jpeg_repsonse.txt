@@ -1,0 +1,18 @@
+The image is a page from a comic book. The page is divided into four rectangular panels, arranged in a 2x2 grid. Each panel contains a different scene from the story. 
+
+### Panel 1:
+- **Top Left:** The first panel shows a soldier in a trench, looking up at a tank. The soldier is wearing a helmet and a uniform. The tank is firing its cannon, and there is smoke and fire in the background. The text in this panel reads: "And as the artillery blasted the GI's flank attack to bits, the Red Skirmish Line swept forward and mop up the disheartened Red Troops later..." 
+- **Bottom Left:** The second panel shows a close-up of a soldier's face, with a grim expression. The soldier is wearing a helmet and a uniform. The text in this panel reads: "And then later that night... Joe, that was a fine piece of work you did in the Bronze Star!"
+
+### Panel 2:
+- **Top Right:** The third panel shows a soldier in a field, running away from an explosion. The soldier is wearing a helmet and a uniform. The explosion is large, with smoke and fire. The text in this panel reads: "WHHEEEE... BLAMM! BLAMM! BLAMM!"
+- **Bottom Right:** The fourth panel shows a group of soldiers in a field, with one soldier lying on the ground. The soldiers are wearing helmets and uniforms. The text in this panel reads: "BLAMM! BLAMM! BLAMM!"
+
+### Panel 3:
+- **Top Middle:** The fourth panel shows a soldier in a field, with a large explosion in the background. The soldier is wearing a helmet and a uniform. The text in this panel reads: "And then later that night... Joe, that was a fine piece of work you did in the Bronze Star!"
+
+### Panel 4:
+- **Bottom Middle:** The fifth panel shows a close-up of a soldier's face, with a grim expression. The soldier is wearing a helmet and a uniform. The text in this panel reads: "And then later that night... Joe, that was a fine piece of work you did in the Bronze Star!"
+
+### Panel 5:
+- **Bottom Right:** The sixth panel shows a group of soldiers in a field, with one soldier lying on the ground. The soldiers are wearing helmets and

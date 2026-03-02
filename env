@@ -1,0 +1,10 @@
+MODEL="llava-hf/llava-v1.6-mistral-7b-hf"
+TOKENIZER='lmsys/vicuna-7b-v1.5'
+OUT_FILE="output/responses"
+PROMPT_FILE = "prompt.txt"
+SRC_DIR='comics'
+VLM_DIR='resps'
+IMG_DIR='imgs'
+EXT='png'
+DATA_EXT='txt'
+DELIMITER='     '
