@@ -1,4 +1,4 @@
-# Second Sight CAI6307 Keystone Project: Semantic Similarity is a Spurious Measure of Comic Understanding: Lessons Learned from Hallucinations in a Benchmarking Experiment
+# Semantic Similarity is a Spurious Measure of Comic Understanding: Lessons Learned from Hallucinations in a Benchmarking Experiment
 
 This code repository contains code for the benchmarking experiment described in our paper.
 
